@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Tie-Array-Packed
-version:            0.11
+version:            0.12_01
 abstract:           store arrays in memory efficiently as packed strings
 author:
     - Salvador Fandino <sfandino@yahoo.com>
