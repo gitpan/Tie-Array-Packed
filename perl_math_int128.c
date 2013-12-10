@@ -2,8 +2,8 @@
  * perl_math_int128.c - This file is in the public domain
  * Author: Salvador Fandino <sfandino@yahoo.com>
  *
- * Generated on: 2012-07-18 11:43:42
- * Math::Int128 version: 0.06_04
+ * Generated on: 2012-09-10 13:21:21
+ * Math::Int128 version: 0.06_07
  * Module::CAPIMaker version: 0.02
  */
 
